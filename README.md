@@ -29,8 +29,6 @@ If you want to reach me, you can:
 
 <img  align="left"  alt="CSS"  width="30px"  style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"  />
 
-<img  align="left"  alt="Tailwind"  width="30px"  style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"  />
-
 <br  />
 
 #### Backend
@@ -43,8 +41,6 @@ If you want to reach me, you can:
 
 <img  align="left"  alt="PHP"  width="30px"  style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"  />
 
-<img  align="left"  alt="Laravel"  width="30px"  style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"  />
-
 <br  />
 
 #### Developer tools
@@ -56,16 +52,6 @@ If you want to reach me, you can:
 <img  align="left"  alt="Jira"  width="30px"  style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"  />
 
 <br  />
-
----
-
-### 📊 Github Stats
-
-<p align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogo-febra-ferreira&theme=vision-friendly-dark" alt="Statistics" />
- &nbsp;&nbsp; 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=diogo-febra-ferreira&theme=vision-friendly-dark" alt="Languages" />
-</p>
 
 ---
 
